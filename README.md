@@ -188,8 +188,8 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ## 👨‍💻 Autor
 
 **Matheus Alvares**
-- GitHub: [@mamalvares](https://github.com/mamalvares)
-- LinkedIn: [Matheus Alvares](https://www.linkedin.com/in/matheus-alvares/)
+- GitHub: [@abrahao-dev](https://github.com/abrahao-dev)
+- LinkedIn: [Matheus Abrahão](https://www.linkedin.com/in/abrahao-dev/)
 
 ## 🙏 Agradecimentos
 
